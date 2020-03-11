@@ -24,4 +24,4 @@ print("The authors list printed, sorting by name and number of books: ")
 
 #Printing using the sorted() function with an embeded lambda function to sort the list by name and number of books.
 #I was going to use pprint, but the sorted() function does not work with pprint - or I couldn't get it to work.
-print sorted(horrorAuthors, key = lambda i: (i["name"], i["books"]))
+print(sorted(horrorAuthors, key = lambda i: (i["name"], i["books"])))
