@@ -20,3 +20,4 @@ Exercise 1) Create a Fibonacci sequence using any length of numbers in the seque
 
 Exercise 2) Create a list of dictionaries (I used authors and the number books they've written), be sure to include at least two categories in your dictionaries, and then use lambdas to sort your list by at least one category. My example for this can be found in lambda_exercise2.py.
 
+https://docs.python.org/3/reference/expressions.html#lambda
