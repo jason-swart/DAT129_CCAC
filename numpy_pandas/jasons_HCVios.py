@@ -25,9 +25,9 @@ munis = violationsDF['municipal']
 # Creates a variable for each of three chosen municipalities then uses lambda 
 # function to sort the violations for each location
 
-millviols = violationsDF.loc[lambda violationsDF: violationsDF['municipal'].isin(['Millvale'])]
-rossviols = violationsDF.loc[lambda violationsDF: violationsDF['municipal'].isin(['Ross'])]
-bellviols = violationsDF.loc[lambda violationsDF: violationsDF['municipal'].isin(['Bellevue'])]
+millviols = violationsDF.loc[lambda violationsDF: violationsDF['municipal'] == 'Millvale']
+rossviols = violationsDF.loc[lambda violationsDF: violationsDF['municipal'] == 'Ross']
+bellviols = violationsDF.loc[lambda violationsDF: violationsDF['municipal'] == 'Bellevue']
 
 # Create variables to search for the health violation with the most "high" rated
 # severity
