@@ -1,0 +1,12 @@
+**PROJECT PROFILE**
+name: 
+inactive: 
+fiscal_year:
+budgeted_amount:
+task_description:
+start_date:
+area: 
+asset_id:
+asset_type:
+status:
+id:
