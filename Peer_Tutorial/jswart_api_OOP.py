@@ -38,11 +38,7 @@ class APICall:
 
 
 if __name__ == '__main__':
-    # Instantiate an APICall object
     kia = APICall('kia', 'forte', 2011)
-    # Save API request to a variable
     api_data = kia.get_request()
-    # Get recall count
     kia.get_count(api_data)
-    # Dump recall data to JSON file
     kia.json_dump(api_data)
