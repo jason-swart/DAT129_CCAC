@@ -24,7 +24,7 @@ https://docs.python.org/3/reference/expressions.html#lambda
 
 Socratica YouTube Channel https://www.youtube.com/watch?v=25ovCm9jKfA (Highly recommend this channel in general.)
   
-# Peer tutorial challenges:  
+### Peer tutorial challenges:  
 
 Added the OOP peer teaching challenge from Taichi.
 My own examples of lambdas highlight recursion.
