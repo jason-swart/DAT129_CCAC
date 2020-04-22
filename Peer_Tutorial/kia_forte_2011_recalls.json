@@ -1,0 +1,33 @@
+{
+    "Count": 2,
+    "Message": "Results returned successfully",
+    "Results": [
+        {
+            "Manufacturer": "Kia Motors America",
+            "NHTSACampaignNumber": "16V070000",
+            "ReportReceivedDate": "/Date(1454648400000-0500)/",
+            "Component": "POWER TRAIN:AUTOMATIC TRANSMISSION:COOLING UNIT AND LINES",
+            "Summary": "Kia Motors America (Kia) is recalling certain model year 2011 Forte vehicles manufactured August 27, 2010, to November 11, 2010.  The affected vehicles have a transmission fluid cooler hose that may have been improperly manufactured, resulting in a transmission fluid leak.  ",
+            "Conequence": "If enough transmission fluid leaks out, the transmission may not function properly and the vehicle may stop moving, increasing the risk of a crash. ",
+            "Remedy": "Kia will notify owners, and dealers will replace the transmission cooler hose, free of charge.  The recall began March 30, 2016.  Owners may contact Kia customer service at 1-800-333-4542.  Kia's number for this recall is SC129.  ",
+            "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+            "ModelYear": "2011",
+            "Make": "KIA",
+            "Model": "FORTE"
+        },
+        {
+            "Manufacturer": "Kia Motors America",
+            "NHTSACampaignNumber": "18V363000",
+            "NHTSAActionNumber": "PE18003",
+            "ReportReceivedDate": "/Date(1527825600000-0400)/",
+            "Component": "AIR BAGS: AIR BAG CONTROL MODULE",
+            "Summary": "Kia Motors America (Kia) is recalling certain 2010-2013 Kia Forte, Forte Koup, 2011-2013 Kia Optima and 2011-2012 Kia Optima Hybrid and Sedona vehicles.  In the event of a crash, the air bag control unit (ACU) may short circuit, preventing the frontal air bags and seat belt pretensioners from deploying.",
+            "Conequence": "If the frontal air bags and seat belt pretensioners are disabled, there is an increased risk of injury to the vehicle occupants in the event of a vehicle crash that necessitates deployment of these safety systems.",
+            "Remedy": "Kia will notify owners.  For model year 2011 Sedona vehicles, Kia will instruct dealers to verify the ACU part number and, if necessary, install an extension wire harness kit between the ACU Connector and the Vehicle Harness Connector. For all other affected vehicles, Kia will instruct dealers to install the extension wire harness kit.  The recall began September 28, 2018.  Owners may contact Kia customer service at 1-800-333-4542.  Kia's number for this recall is SC165.\r\n\r\n",
+            "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+            "ModelYear": "2011",
+            "Make": "KIA",
+            "Model": "FORTE"
+        }
+    ]
+}

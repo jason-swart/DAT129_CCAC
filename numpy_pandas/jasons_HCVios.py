@@ -33,7 +33,7 @@ bellviols = violationsDF.loc[lambda violationsDF: violationsDF['municipal'] == '
 # severity
 
 highVio = violationsDF.loc[lambda violationsdf: violationsDF['high']=='T']
-vioList = highVio['description_new'].value_counts()
+vioList = highVio['description_new'].value_counts().nlargest(1)
 
 # Creates new variables that lists number of violations for each location using 
 # value_counts then using nlargest pulls the top 3 violations for each location
@@ -47,4 +47,9 @@ print("Ross: \n", Ross, "\n", sep='')
 print("Bellevue: \n", Bellevue, "\n", sep='')
 
 print("Violation with the most 'high' severity rating is: ")
-print(vioList.head(1))
+print(vioList)
+
+#highseverity=violationsDF.loc[lambda violationsdf:violationsdf['high']=='T']
+#common_list=highseverity['description'].value_counts()
+#print('The restaurant which has the most "high" severity violations is:')
+#print(common_list.head(1))
